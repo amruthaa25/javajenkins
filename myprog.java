@@ -1,4 +1,4 @@
-public class Switch {
+public class myprog {
     public static void main(String args[]){
 
         int day = 10;
